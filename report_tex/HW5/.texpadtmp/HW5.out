@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Problem Description}{}% 1
+\BOOKMARK [1][-]{section.2}{Result Summary}{}% 2
+\BOOKMARK [1][-]{section.3}{Metadata}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Software}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Hardware}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Approach}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Baseline Approach}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Optimization}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Performance}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{Runtime data collection}{section.5}% 10
+\BOOKMARK [1][-]{section.6}{Analysis}{}% 11
+\BOOKMARK [2][-]{subsection.6.1}{Shared vs Naive}{section.6}% 12
+\BOOKMARK [2][-]{subsection.6.2}{Matrix Size}{section.6}% 13
+\BOOKMARK [2][-]{subsection.6.3}{Block Size}{section.6}% 14
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 15
+\BOOKMARK [1][-]{section.8}{Finally}{}% 16
+\BOOKMARK [1][-]{section.9}{Pledge}{}% 17

@@ -1,0 +1,41 @@
+Current: 1
+ALSA lib confmisc.c:768:(parse_card) cannot find card '0'
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1251:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4771:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM default
+AL lib: alsa_open_playback: Could not open playback device 'default': No such file or directory
+found bundled python: /sfs/nfs/blender/2.70/2.70/python
+read blend: /home/ys7va/HW2/Star-collapse-ntsc.blend
+Old particle system converted to new system.
+Old particle system converted to new system.
+Old particle system converted to new system.
+Old particle system converted to new system.
+Old particle system converted to new system.
+Old particle system converted to new system.
+Old particle system converted to new system.
+Old particle system converted to new system.
+Old particle system converted to new system.
+Old particle system converted to new system.
+Old particle system converted to new system.
+2.66 versioning fix: replacing black sky with premultiplied alpha for scene 1
+read blend: /home/ys7va/HW2/250
+Warning: Unable to open '/home/ys7va/HW2/250': No such file or directory
+Error, region type 2 missing in - name:"Info", id:7
+Error, region type 4 missing in - name:"Info", id:7
+
+Blender quit
+ls: cannot access star-collapse-*: No such file or directory
+Invalid loglevel "20M". Possible levels are numbers or:
+"quiet"
+"panic"
+"fatal"
+"error"
+"warning"
+"info"
+"verbose"
+"debug"
+Duration: 1 seconds
